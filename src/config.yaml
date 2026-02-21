@@ -1,0 +1,5 @@
+paths:
+  raw_data: "../data/raw/NCD_RisC_eLife_2016_height_age18_countries.csv"
+
+filters:
+  sex: "Women"
